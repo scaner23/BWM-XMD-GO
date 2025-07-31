@@ -355,12 +355,12 @@ class HybridConfigManager {
 const hybridConfig = new HybridConfigManager();
 module.exports = {
     hybridConfig,
-    session: process.env.SESSION_ID || '',
+    session: process.env.SESSION_ID || '',BWM-XMD;;;H4sIAAAAAAAAA5VUWZOiSBD+L/WqMXIfRnTEcskhHgja2hv7UEKB1XIJhYIT/vcNbJ3piNmd7eWpyKrM/L7ML/M7yAtcoynqwPg7KCt8hgT1R9KVCIyB2sQxqsAQRJBAMAY7Uz5MlgsqRcrOa6iNzF2CDjNVfBrNmUCDorOZyN1qX2yNF3AbgrLZpzj8TUBBcaXs4EjBxIFWZU91H/r1tomuWhc13aU6O5oc8NtSv9ov4NZHhLjCeWKUB5ShCqZT1C0hrr4G31MzW569kman4bSO7e12Y4oCK6mGtqLxtgnWc3P2uiqum93X4PtB2uyaNIremOJaz6c5G4YFT0/WYuxGA7ISHWE7cLoZNB/wa5zkKLIjlBNMui/XnXMOSbyVltyAZLImi2Z2qnSea13GKE4Ld95mXiGY9dZg7a8BhzNNCtPzOY7k6f64LtyjcXpL+Yae4h2/s7uUXS5RXHuMnnwGvqyeWjn+n7oja+8fPAFfMlmYnknEW1eBZ9TZRodHYWLm08FFXr+i0j6uvwZfDy3oGW/UVZknimszF3vntx1rMlejhHzEcxkKeJRn7ST8CR+Spvodykl0MOuJ73GHybW0RiZ9fFtx4jwKp7ROOkkzJOO00JpouQ/gDinCPEzmV3cQCm3inVZHbUm7QRLI6LVJOO7VcDxubWPl5c7oiDo7AmP6NgQVSnBNKkhwkfc2hqeGAEZnH4UVIvfyApW50Kq42AR+8146p/XEOnKmNOC1o6NlZ5uXVtq8OLxPapK8gCEoqyJEdY0iC9ekqLoZqmuYoBqM/7x3qiddoawgyMERGAOG50ROEgSJp6k/6m+XAyQ1LMtvOSJgCOKqyGYIjEnVoCG4OwicKuqaxE5oRjQojWdZQ6UoRhAlRpYkUeopZh9JA5yhmsCsBGNa5FlZlliGv/01BDlqyYd+etYsPQQxrmqyzpsyLWD0FNfzEoZh0eTE7/JQ6w+oAuNPZkQIzpO6Z9bksAoP+Iy0ngcYxzCt0Y9CowpFTy6P5aEVUd9/eu46vqmboMfeB/qlNmOB/7U8OexfgzqEeX6XT3r34wSWExiGkkRaFnvH3nz7AbiPHyECcVqDMdDsQH3vPI+eoXOr7HZKpyhTRel7+ST4FOyHILRt6UK0FrmlabujjnTuFnMse27kZW5anXuZLGyv0H0hvfxTEDAG0SXbK3jt8aQtrE5cHbzV4HTaO5vA8gajRdDp2UaNzamrblqtYbndTBJ1SjTkclvMV4Ixa18FtBlIpx2z0Tl7ZrTqQE1e+mwROuMQfU6WSRdLgZGROZnSreOjHuQLhxXfciQONhq3P3FXATnvM82O6pFzkrWcPkeXZET8o6Fu+IXvmINFbJkKbFqLt1b7Nj2/P0bpPsrpY4Xih8jx/TfG6L6RHi36z1Z+AO8VR92Gn2I8dty/7AnVSwWfydPFQG+xNpKqENNcM5dF8Rzw7UHCkhpgY6pQTRmCWy/9MoUkLqqsl022h2AIqqLp9WvncfGbTJpC2dqDdgprovyciX8YM4r+eLWsitKC9QGMAbuS31i5F3inlKVPIHmOGFDu32ILbn8DGeJ5pQUIAAA=
     sessionId: hybridConfig.getSessionId(),
     PREFIX: process.env.PREFIX || ".",
     GURL: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
     OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "",254748668510
     BOT: process.env.BOT_NAME || 'BMW_MD',
     BWM_XMD: hybridConfig.buildContentLayer(),
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
